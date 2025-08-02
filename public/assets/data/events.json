@@ -1123,7 +1123,7 @@
   },
   {
     "name": null,
-    "organizerId": "angularnyc",
+    "organizerId": "angular-nyc",
     "type": "meetup",
     "location": null,
     "date": "2023-09-28",
@@ -1137,7 +1137,7 @@
   },
   {
     "name": "AngularNYC, June 2025",
-    "organizerId": "angularnyc",
+    "organizerId": "angular-nyc",
     "type": "meetup",
     "location": "New York, USA",
     "date": "2025-06-03",
@@ -2409,5 +2409,19 @@
     "isRemote": true,
     "isOnsite": true,
     "location": "Salt Lake City, UT"
+  },
+  {
+    "name": "AngularNYC, September 2025",
+    "organizerId": "angular-nyc",
+    "type": "meetup",
+    "location": "New York, USA",
+    "date": "2025-09-18",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angularnyc/events/310258766/"
   }
 ]

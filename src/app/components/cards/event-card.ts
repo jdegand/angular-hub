@@ -1,10 +1,10 @@
+import { DatePipe, NgOptimizedImage } from '@angular/common';
 import {
   ChangeDetectionStrategy,
   Component,
   computed,
   input,
 } from '@angular/core';
-import { DatePipe, NgOptimizedImage } from '@angular/common';
 import { CommunityEvent } from '../../../models/community-event.model';
 
 @Component({
@@ -45,7 +45,10 @@ import { CommunityEvent } from '../../../models/community-event.model';
         >
           @if (!event().isFree) {
             <div class="flex flex-col">
-              <div class="text-sm text-gray-500 dark:text-gray-200" i18n="@@event-card.starting-from">
+              <div
+                class="text-sm text-gray-500 dark:text-gray-200"
+                i18n="@@event-card.starting-from"
+              >
                 Starting from
               </div>
               <div class="font-bold text-[#26A0D9] flex items-end gap-1">
@@ -63,15 +66,25 @@ import { CommunityEvent } from '../../../models/community-event.model';
             </div>
           } @else {
             <div class="flex flex-col">
-              <div class="text-sm text-gray-500 dark:text-gray-200" i18n="@@event-card.registration">
+              <div
+                class="text-sm text-gray-500 dark:text-gray-200"
+                i18n="@@event-card.registration"
+              >
                 Registration
               </div>
-              <div class="font-bold text-2xl text-[#26A0D9]" i18n="@@event-card.fee">Free</div>
+              <div
+                class="font-bold text-2xl text-[#26A0D9]"
+                i18n="@@event-card.fee"
+              >
+                Free
+              </div>
             </div>
           }
           @if (event().attendeesCount) {
             <div class="flex flex-col items-center">
-              <div class="text-sm text-gray-500" i18n="@@event-card.attendees">Attendees</div>
+              <div class="text-sm text-gray-500" i18n="@@event-card.attendees">
+                Attendees
+              </div>
               <div class="text-sm font-bold">{{ event().attendeesCount }}</div>
             </div>
           }
