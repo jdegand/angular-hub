@@ -1706,6 +1706,20 @@
     "url": "https://www.meetup.com/ng-lodz/events/307818539"
   },
   {
+    "name": "ngLodz #19 - Unlocking Speed with Lazy Dev & Self-Writing Code in Nx",
+    "organizerId": "ng-lodz",
+    "type": "meetup",
+    "location": "Łódź, Poland",
+    "date": "2025-08-20",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/ng-lodz/events/310387380/"
+  },
+  {
     "name": null,
     "organizerId": "ng-asia",
     "type": "meetup",
