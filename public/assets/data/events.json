@@ -2423,5 +2423,20 @@
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
     "url": "https://www.meetup.com/angularnyc/events/310258766/"
+  },
+  {
+    "name": "NG-BE 2025",
+    "organizerId": "ng-be",
+    "type": "conference",
+    "date": "2025-12-4",
+    "endDate": "2025-12-5",
+    "url": "https://ng-be.org/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Ghent, Belgium"
   }
 ]
