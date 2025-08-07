@@ -1776,22 +1776,6 @@
     "url": "https://www.youtube.com/@NgAsiaAngular/streams"
   },
   {
-    "name": "Angular Voices of Asia",
-    "organizerId": "ng-asia",
-    "type": "conference",
-    "location": null,
-    "date": "2025-12-21",
-    "endDate": "2026-03-20",
-    "language": "English & local languages",
-    "isFree": false,
-    "isRemote": true,
-    "isOnsite": false,
-    "callForPapersUrl": null,
-    "callForPapersDueDate": null,
-    "url": "https://angular-voices.asia/",
-    "description": "Angular Voices of Asia is a remote-first Angular conference with a mission: revive and uplift the Angular community across Asia by spotlighting local developers and sharing their work and ideas with the world. Join us this Winter 2025"
-  },
-  {
     "name": null,
     "organizerId": "angular-sp",
     "type": "meetup",
@@ -2002,6 +1986,21 @@
     "type": "conference",
     "date": "2024-12-5",
     "endDate": "2024-12-6",
+    "url": "https://ng-be.org/",
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "language": "English",
+    "isFree": false,
+    "isRemote": false,
+    "isOnsite": true,
+    "location": "Ghent, Belgium"
+  },
+  {
+    "name": "NG-BE 2025",
+    "organizerId": "ng-be",
+    "type": "conference",
+    "date": "2025-12-4",
+    "endDate": "2025-12-5",
     "url": "https://ng-be.org/",
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
@@ -2469,18 +2468,19 @@
     "url": "https://www.meetup.com/angularnyc/events/310258766/"
   },
   {
-    "name": "NG-BE 2025",
-    "organizerId": "ng-be",
+    "name": "Angular Voices of Asia",
+    "organizerId": "ng-voices-of-asia",
     "type": "conference",
-    "date": "2025-12-4",
-    "endDate": "2025-12-5",
-    "url": "https://ng-be.org/",
+    "location": null,
+    "date": "2025-12-21",
+    "endDate": "2026-03-20",
+    "language": "English & local languages",
+    "isFree": false,
+    "isRemote": true,
+    "isOnsite": false,
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
-    "language": "English",
-    "isFree": false,
-    "isRemote": false,
-    "isOnsite": true,
-    "location": "Ghent, Belgium"
+    "url": "https://angular-voices.asia/",
+    "description": "Angular Voices of Asia is a remote-first Angular conference with a mission: revive and uplift the Angular community across Asia by spotlighting local developers and sharing their work and ideas with the world. Join us this Winter 2025"
   }
 ]

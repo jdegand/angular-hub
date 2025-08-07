@@ -862,5 +862,21 @@
     "youtubeUrl": null,
     "twitchUrl": null,
     "callForPapersUrl": null
+  },
+  {
+    "id": "ng-voices-of-asia",
+    "name": "Angular Voices of Asia",
+    "type": "angular-community",
+    "location": null,
+    "logo": "https://www.angular-voices.asia/logo.svg",
+    "eventsUrl": null,
+    "websiteUrl": "https://www.angular-voices.asia/",
+    "organizersUrl": "https://www.angular-voices.asia/#team",
+    "blueskyUrl": "https://bsky.app/profile/ngvoicesofasia.bsky.social",
+    "xUrl": "https://x.com/ngVoicesOfAsia",
+    "linkedinUrl": "https://www.linkedin.com/company/angularvoicesofasia/",
+    "youtubeUrl": null,
+    "twitchUrl": null,
+    "callForPapersUrl": null
   }
 ]
