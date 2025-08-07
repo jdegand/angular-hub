@@ -1748,6 +1748,20 @@
     "url": "https://www.youtube.com/@NgAsiaAngular/streams"
   },
   {
+    "name": "Angular's Next Change Detection Update: Synchronisation",
+    "organizerId": "ng-asia",
+    "type": "meetup",
+    "location": null,
+    "date": "2025-08-15",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.youtube.com/@NgAsiaAngular/streams"
+  },
+  {
     "name": "Structuring Code to Avoid Shell-Shocked Testing",
     "organizerId": "ng-asia",
     "type": "meetup",
