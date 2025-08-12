@@ -2482,5 +2482,19 @@
     "callForPapersDueDate": null,
     "url": "https://angular-voices.asia/",
     "description": "Angular Voices of Asia is a remote-first Angular conference with a mission: revive and uplift the Angular community across Asia by spotlighting local developers and sharing their work and ideas with the world. Join us this Winter 2025"
+  },
+  {
+    "name": "Angular Summer Camp",
+    "organizerId": "angular-love",
+    "type": "meetup",
+    "location": "Warsaw, Poland",
+    "date": "2023-08-28",
+    "language": "English",
+    "isFree": true,
+    "isRemote": false,
+    "isOnsite": true,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.meetup.com/angular-love-meetup/events/310482439/"
   }
 ]
