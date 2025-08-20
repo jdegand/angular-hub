@@ -2280,6 +2280,8 @@
     "isRemote": true,
     "isOnsite": true,
     "location": "London, UK",
+    "startingPrice": 190,
+    "currency": "£",
     "description": "AngularConnect, powered by E-SQUARE.io and PUSH-BASED.io, returns as a leading Angular conference after a long break. Bringing together top experts, industry leaders, and developers, it remains a key hub for innovation, collaboration, and knowledge-sharing in the Angular ecosystem."
   },
   {
