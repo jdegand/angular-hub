@@ -1945,6 +1945,8 @@
     "callForPapersUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfUAMqFo00towc_wwi93rB4GX8cwxWHONhu-hH6pA_frpY8Sw/viewform",
     "callForPapersDueDate": "2025-04-15",
     "url": "https://angular-tlv.com/",
+    "startingPrice": 650,
+    "currency": "₪",
     "description": "Angular TLV Powered by E-SQUARE.io, Angular TLV is the leading and most active Angular community in Israel, serving as the primary hub for Angular enthusiasts through professional meetups and events. Organized by top Angular experts, the community brings together developers,professionals, and industry leaders who drive innovation, collaboration, and knowledge-sharing."
   },
   {
