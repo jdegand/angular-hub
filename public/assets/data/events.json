@@ -2665,5 +2665,19 @@
     "callForPapersUrl": null,
     "callForPapersDueDate": null,
     "url": "https://www.meetup.com/angular-love-meetup/events/310482439/"
+  },
+  {
+    "name": "Angular Space Meetup: The Future of Signals",
+    "organizerId": "angular-space",
+    "type": "meetup",
+    "location": null,
+    "date": "2025-08-27",
+    "language": "English",
+    "isFree": true,
+    "isRemote": true,
+    "isOnsite": false,
+    "callForPapersUrl": null,
+    "callForPapersDueDate": null,
+    "url": "https://www.angularspace.com/first-angular-space-meetup-date/"
   }
 ]

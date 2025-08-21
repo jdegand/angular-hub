@@ -894,5 +894,21 @@
     "youtubeUrl": "https://youtube.com/@angularegypt",
     "twitchUrl": null,
     "callForPapersUrl": null
+  },
+  {
+    "id": "angular-space",
+    "name": "Angular Space",
+    "type": "angular-community",
+    "location": null,
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHVKlB_n1v8ow/company-logo_200_200/company-logo_200_200/0/1710546352608/angular_space_logo?e=1758758400&v=beta&t=Q_TLbErtUI2o7Q8wH35n_eto0Qovdv8RnUEmR0KVXSM",
+    "eventsUrl": null,
+    "websiteUrl": "https://www.angularspace.com/",
+    "organizersUrl": null,
+    "blueskyUrl": null,
+    "xUrl": "https://x.com/i/communities/1726237719762714636",
+    "linkedinUrl": "https://www.linkedin.com/company/angular-space/",
+    "youtubeUrl": "https://www.youtube.com/@AngularSpaceMeetup",
+    "twitchUrl": "https://www.twitch.tv/angularspacemeetup",
+    "callForPapersUrl": null
   }
 ]
